@@ -1,2 +1,1 @@
-# pro
-gui music website
+it is a basic GUI front-end website for viewing different types of headphones of the Beats company there are several options where we can see different types of headphones available sample functions have been enabled like back exit to operate from pages which will be redirected to the home page.
